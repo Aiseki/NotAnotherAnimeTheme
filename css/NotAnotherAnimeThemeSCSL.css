@@ -662,7 +662,7 @@
     font-family: SourceCodePro, Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
     padding: 0 4px;
     border-radius: 2px;
-    color: #43b581;
+    color: #53a3e8;
     background-color: rgba(0, 0, 0, 0);
 }
 
@@ -759,7 +759,7 @@
 
 [class~=guild-channels] [class~=channel-text]:hover a,
 [class~=guild-channels] [class~=channel-text][class~=selected] a {
-    color: #43b581;
+    color: #53a3e8;
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-of-type,
@@ -1108,7 +1108,7 @@
 
 [class~=guild-channels] [class~=channel]:not([class~=selected]):before,
 [class~=guild-channels] [class~=channel][class~=selected]:hover:before {
-    border-left-color: #43b581 !important;
+    border-left-color: #53ea38 !important;
 }
 
 [class~=guild-channels] header h2 {
@@ -1246,7 +1246,7 @@
 
 .private-channels .channel.selected:hover:before,
 .guild-channels .channel.selected:before {
-    border-left-color: #43b581 !important;
+    border-left-color: #53a3e8 !important;
 }
 
 .channel-textarea-autocomplete-inner header {
@@ -1333,7 +1333,7 @@
 .nameHoveredText-2FFqiz,
 [class~=nameHoveredVoice-TIoHRJ],
 [class~=nameSelectedText-32NDX5] {
-    color: #43b581;
+    color: #53a3e8;
 }
 
 [class~=container-iksrDt] [class~=status],
@@ -1410,7 +1410,7 @@
 }
 
 [class~=header-toolbar] button[class~=popout-open] {
-    background: #43b581;
+    background: #53a3e8;
 }
 
 [class~=contentHoveredText-2HYGIY] {
@@ -1624,7 +1624,7 @@
 }
 
 [class~=private-channels] [class~=channel]:not([class~=selected]):before {
-    border-left-color: #43b581 !important;
+    border-left-color: #53a3e8 !important;
 }
 
 .search-popout .date-picker .date-picker-hint .hint-value {
@@ -1870,7 +1870,7 @@
 }
 
 [class~=private-channels] [class~=channel][class~=selected]:before {
-    border-left-color: #43b581 !important;
+    border-left-color: #53a3e8 !important;
 }
 
 [class~=private-channels] [class~=channel][class~=selected]:before,
@@ -1998,7 +1998,7 @@
 }
 
 [class~=private-channels] [class~=search-result][class~=selected]:before {
-    border-left-color: #43b581 !important;
+    border-left-color: #53a3e8 !important;
 }
 
 .chat .has-more button {
@@ -2250,7 +2250,7 @@
 }
 
 [class~=unread-23Kvxk] {
-    background-color: #43b581;
+    background-color: #53a3e8;
 }
 
 [class~=private-channels] [class~=search-result]:hover:before {
@@ -2262,7 +2262,7 @@
 }
 
 [class~=private-channels] [class~=search-result]:hover:before {
-    border-left-color: #43b581 !important;
+    border-left-color: #53a3e8 !important;
 }
 
 [class~=message-group] [class~=comment] {
@@ -2340,7 +2340,7 @@
 
 [class~=nameSpeaking-3ROx9q],
 [class~=nameHovered-28u_Fz] {
-    color: #43b581;
+    color: #53a3e8;
 }
 
 [class~=react-datepicker] [class~=react-datepicker__month] [class~=react-datepicker__week]>[class~=react-datepicker__day]:last-of-type {
@@ -3381,7 +3381,7 @@
 
 [class~=search-answer],
 [class~=search-filter] {
-    background-color: #43b581 !important;
+    background-color: #53a3e8 !important;
 }
 
 [class~=mentioned] [class~=message-text]:after {
@@ -3726,7 +3726,7 @@
 
 [class~=add-friend-popout] [class~=btn],
 #friends [class~=btn] {
-    background-color: #43b581 !important;
+    background-color: #53a3e8 !important;
 }
 
 [class~=private-channels] [class~=status] {
@@ -4255,7 +4255,7 @@
 }
 
 .private-channels .channel.selected .icon-friends {
-    background-color: #43b581 !important;
+    background-color: #53a3e8 !important;
 }
 
 .private-channels .channel.btn-friends .badge {
@@ -7316,7 +7316,7 @@ textarea {
 .body-3rkFrF {
     background-color: rgba(0,0,0,0.9);
     padding: 20px;
-    border-bottom: 1px solid #43b581;
+    border-bottom: 1px solid #53a3e8;
 }
 
 .footer-2J5zqP {
@@ -7349,7 +7349,7 @@ textarea {
 }
 
 .iconCollapsed-1INdMX, .iconDefault-xzclSQ, .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm {
-    color: #43b581;
+    color: #53a3e8;
 }
 
 .theme-dark .private-channel-call {
